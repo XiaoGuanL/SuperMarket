@@ -1,0 +1,10 @@
+F:\vs_代码\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+F:\vs_代码\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+F:\vs_代码\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.frmlogin.resources
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+F:\vs_代码\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
