@@ -14,9 +14,12 @@ namespace SuperMarket
         [STAThread]
         static void Main()
         {
+
+            int test;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmlogin());
+
         }
     }
 }
